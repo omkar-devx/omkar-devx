@@ -61,6 +61,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
+## 🔥Stats
 <p align="center">
 <!--   Use this in future -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Prajapati&langs_count=8&layout=compact)](https://github.com/Omkar-Prajapati/github-readme-stats)   -->
