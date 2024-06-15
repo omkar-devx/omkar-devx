@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Core Subjects**
 
-- 💬 Ask me about **MEARN and Core Subjects**
+- 💬 Ask me about **MERN and Core Subjects**
 
 - 📫 How to reach me **prajapatiomkar0610@Gmail.com**
 
