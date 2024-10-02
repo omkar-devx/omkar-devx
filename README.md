@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN and Core Subjects**
 
-- 📫 How to reach me **prajapatiomkar0610@Gmail.com**
+- 📫 How to reach me **omkar.devx@gmail.com**
 
 - 📄 Know about my experiences [Link](Link)
 
