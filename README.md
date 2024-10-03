@@ -70,9 +70,9 @@
 <p align="center">
 <!--   Use this in future -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Prajapati&langs_count=8&layout=compact)](https://github.com/Omkar-Prajapati/github-readme-stats)   -->
-<img src="https://github-readme-stats.vercel.app/api?username=Omkar-Prajapati&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
+<img src="https://github-readme-stats.vercel.app/api?username=omkar-devx&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-prajapati&theme=merko" alt="omkar-prajapati" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-devx&theme=merko" alt="omkar-prajapati" />
 </p>
