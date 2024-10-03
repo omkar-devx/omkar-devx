@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Prajapati</h1>
 <!-- <h3 align="center">Passionate Web Developer and Programmer, Welcome to My GitHub Page.</h3> -->
 <!-- <img src="https://www.pinterest.com/pin/moody-guy--375206212681334483" alt="GIF" width="300"/> -->
-<img src="https://github.com/omkar-devx/omkar-devx/blob/main/gif.gif" alt="GIF" width="300"/>
+<!-- <img src="https://github.com/omkar-devx/omkar-devx/blob/main/gif.gif" alt="GIF" width="300"/> -->
+<img src="https://github.com/omkar-devx/omkar-devx/blob/main/gif.gif" alt="GIF" width="300" style="display: block; margin-left: auto; margin-right: auto;" />
+
 
 [![](https://visitcount.itsvg.in/api?id=Omkar-Prajapati&icon=9&color=0)](https://visitcount.itsvg.in)
 
