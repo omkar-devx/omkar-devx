@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Prajapati</h1>
 <!-- <h3 align="center">Passionate Web Developer and Programmer, Welcome to My GitHub Page.</h3> -->
 
-<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/moody-guy--375206212681334483">
 
 [![](https://visitcount.itsvg.in/api?id=Omkar-Prajapati&icon=9&color=0)](https://visitcount.itsvg.in)
 
